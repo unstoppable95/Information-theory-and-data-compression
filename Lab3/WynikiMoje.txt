@@ -1,0 +1,172 @@
+C:\Users\Piotr\AppData\Local\Programs\Python\Python36-32\python.exe "C:/Users/Piotr/Dysk Google/SEMESTR 6/Teoria_informacji_kompresja_danych/Lab/Information-theory-and-data-compression/Lab3/Lab3.py"
+----------------ZAD 2---------------
+./norm_wiki_en.txt  entropia zerowego rzedu slowa :  11.543969673413223
+./norm_wiki_en.txt  entropia zerowego rzedu litery :  4.2882199503805305 
+
+./norm_wiki_en.txt  entropia rzedu  1  slowa :  6.389146236202412
+./norm_wiki_en.txt  entropia rzedu  1  litery :  3.516602936212544 
+
+./norm_wiki_en.txt  entropia rzedu  2  slowa :  2.176446627620395
+./norm_wiki_en.txt  entropia rzedu  2  litery :  3.018318126326439 
+
+./norm_wiki_en.txt  entropia rzedu  3  slowa :  0.4846759783084212
+./norm_wiki_en.txt  entropia rzedu  3  litery :  2.4815650809885397 
+
+./norm_wiki_eo.txt  entropia zerowego rzedu slowa :  11.560514456784926
+./norm_wiki_eo.txt  entropia zerowego rzedu litery :  4.176787808925991 
+
+./norm_wiki_eo.txt  entropia rzedu  1  slowa :  6.557660855188893
+./norm_wiki_eo.txt  entropia rzedu  1  litery :  3.340004447939483 
+
+./norm_wiki_eo.txt  entropia rzedu  2  slowa :  2.484711915558832
+./norm_wiki_eo.txt  entropia rzedu  2  litery :  2.8718262382375714 
+
+./norm_wiki_eo.txt  entropia rzedu  3  slowa :  0.6336149571711884
+./norm_wiki_eo.txt  entropia rzedu  3  litery :  2.392624533006577 
+
+./norm_wiki_et.txt  entropia zerowego rzedu slowa :  13.746195146137493
+./norm_wiki_et.txt  entropia zerowego rzedu litery :  4.169832294794962 
+
+./norm_wiki_et.txt  entropia rzedu  1  slowa :  5.424149940856246
+./norm_wiki_et.txt  entropia rzedu  1  litery :  3.5069567096272265 
+
+./norm_wiki_et.txt  entropia rzedu  2  slowa :  0.9047317955748964
+./norm_wiki_et.txt  entropia rzedu  2  litery :  3.134404885911598 
+
+./norm_wiki_et.txt  entropia rzedu  3  slowa :  0.11619653944656398
+./norm_wiki_et.txt  entropia rzedu  3  litery :  2.610864595746256 
+
+./norm_wiki_ht.txt  entropia zerowego rzedu slowa :  8.166896701338842
+./norm_wiki_ht.txt  entropia zerowego rzedu litery :  4.1463841402956465 
+
+./norm_wiki_ht.txt  entropia rzedu  1  slowa :  3.1930976836454037
+./norm_wiki_ht.txt  entropia rzedu  1  litery :  3.113857948685656 
+
+./norm_wiki_ht.txt  entropia rzedu  2  slowa :  1.3113199509514024
+./norm_wiki_ht.txt  entropia rzedu  2  litery :  2.273523427898947 
+
+./norm_wiki_ht.txt  entropia rzedu  3  slowa :  0.812222540267266
+./norm_wiki_ht.txt  entropia rzedu  3  litery :  1.4921515069318105 
+
+./norm_wiki_la.txt  entropia zerowego rzedu slowa :  11.969180751639586
+./norm_wiki_la.txt  entropia zerowego rzedu litery :  4.2282466372982 
+
+./norm_wiki_la.txt  entropia rzedu  1  slowa :  4.40001911016693
+./norm_wiki_la.txt  entropia rzedu  1  litery :  3.4501253254612423 
+
+./norm_wiki_la.txt  entropia rzedu  2  slowa :  1.1668808510176503
+./norm_wiki_la.txt  entropia rzedu  2  litery :  2.823491545062943 
+
+./norm_wiki_la.txt  entropia rzedu  3  slowa :  0.3880338259766359
+./norm_wiki_la.txt  entropia rzedu  3  litery :  2.1520309161043727 
+
+./norm_wiki_nv.txt  entropia zerowego rzedu slowa :  9.15381536126561
+./norm_wiki_nv.txt  entropia zerowego rzedu litery :  3.8749286526866933 
+
+./norm_wiki_nv.txt  entropia rzedu  1  slowa :  3.863739089333846
+./norm_wiki_nv.txt  entropia rzedu  1  litery :  2.947255453425922 
+
+./norm_wiki_nv.txt  entropia rzedu  2  slowa :  1.718694488100219
+./norm_wiki_nv.txt  entropia rzedu  2  litery :  2.367571384832012 
+
+./norm_wiki_nv.txt  entropia rzedu  3  slowa :  0.899199487116307
+./norm_wiki_nv.txt  entropia rzedu  3  litery :  1.7952557088871741 
+
+./norm_wiki_sample.txt  entropia zerowego rzedu slowa :  11.469840958030591
+./norm_wiki_sample.txt  entropia zerowego rzedu litery :  4.2804338756309175 
+
+./norm_wiki_sample.txt  entropia rzedu  1  slowa :  6.453615689102768
+./norm_wiki_sample.txt  entropia rzedu  1  litery :  3.508769109696657 
+
+./norm_wiki_sample.txt  entropia rzedu  2  slowa :  2.203157621006947
+./norm_wiki_sample.txt  entropia rzedu  2  litery :  3.0101291762278035 
+
+./norm_wiki_sample.txt  entropia rzedu  3  slowa :  0.4975879120116063
+./norm_wiki_sample.txt  entropia rzedu  3  litery :  2.4749063265400397 
+
+./norm_wiki_so.txt  entropia zerowego rzedu slowa :  11.7310129034608
+./norm_wiki_so.txt  entropia zerowego rzedu litery :  4.040111769520071 
+
+./norm_wiki_so.txt  entropia rzedu  1  slowa :  5.398696354664649
+./norm_wiki_so.txt  entropia rzedu  1  litery :  3.299562594399222 
+
+./norm_wiki_so.txt  entropia rzedu  2  slowa :  1.6086163647413612
+./norm_wiki_so.txt  entropia rzedu  2  litery :  2.8443686272555984 
+
+./norm_wiki_so.txt  entropia rzedu  3  slowa :  0.40960412577756533
+./norm_wiki_so.txt  entropia rzedu  3  litery :  2.374308985657765 
+
+./sample0.txt  entropia zerowego rzedu slowa :  7.7487095179019265
+./sample0.txt  entropia zerowego rzedu litery :  4.2729997669478275 
+
+./sample0.txt  entropia rzedu  1  slowa :  7.486348878570237
+./sample0.txt  entropia rzedu  1  litery :  2.9158922889337733 
+
+./sample0.txt  entropia rzedu  2  slowa :  4.40668536214333
+./sample0.txt  entropia rzedu  2  litery :  2.0003581960597616 
+
+./sample0.txt  entropia rzedu  3  slowa :  0.5950050629527915
+./sample0.txt  entropia rzedu  3  litery :  1.53928115257986 
+
+./sample1.txt  entropia zerowego rzedu slowa :  11.50064310772058
+./sample1.txt  entropia zerowego rzedu litery :  4.127004590971687 
+
+./sample1.txt  entropia rzedu  1  slowa :  5.372203071841279
+./sample1.txt  entropia rzedu  1  litery :  3.239147964122801 
+
+./sample1.txt  entropia rzedu  2  slowa :  1.574719811239621
+./sample1.txt  entropia rzedu  2  litery :  2.8612781929689324 
+
+./sample1.txt  entropia rzedu  3  slowa :  0.5075061136268202
+./sample1.txt  entropia rzedu  3  litery :  2.3266836813303753 
+
+./sample2.txt  entropia zerowego rzedu slowa :  8.023838238470999
+./sample2.txt  entropia zerowego rzedu litery :  3.9933098593209535 
+
+./sample2.txt  entropia rzedu  1  slowa :  7.348586566495142
+./sample2.txt  entropia rzedu  1  litery :  3.0504369230650834 
+
+./sample2.txt  entropia rzedu  2  slowa :  3.781904142199347
+./sample2.txt  entropia rzedu  2  litery :  2.4676585206428387 
+
+./sample2.txt  entropia rzedu  3  slowa :  0.8594963222509197
+./sample2.txt  entropia rzedu  3  litery :  1.9397706546767335 
+
+./sample3.txt  entropia zerowego rzedu slowa :  9.061069812242227
+./sample3.txt  entropia zerowego rzedu litery :  3.930294344638461 
+
+./sample3.txt  entropia rzedu  1  slowa :  5.950174846506284
+./sample3.txt  entropia rzedu  1  litery :  3.184465413638422 
+
+./sample3.txt  entropia rzedu  2  slowa :  2.6307982824399274
+./sample3.txt  entropia rzedu  2  litery :  2.627893673539146 
+
+./sample3.txt  entropia rzedu  3  slowa :  1.2640859367911221
+./sample3.txt  entropia rzedu  3  litery :  2.023990440484324 
+
+./sample4.txt  entropia zerowego rzedu slowa :  17.1296252894062
+./sample4.txt  entropia zerowego rzedu litery :  4.253808959284921 
+
+./sample4.txt  entropia rzedu  1  slowa :  3.4442358882390276
+./sample4.txt  entropia rzedu  1  litery :  4.229100452014556 
+
+./sample4.txt  entropia rzedu  2  slowa :  0.23407576260145074
+./sample4.txt  entropia rzedu  2  litery :  4.226827961182933 
+
+./sample4.txt  entropia rzedu  3  slowa :  0.0032274223495284433
+./sample4.txt  entropia rzedu  3  litery :  4.178534091140311 
+
+./sample5.txt  entropia zerowego rzedu slowa :  16.509482325862116
+./sample5.txt  entropia zerowego rzedu litery :  4.441687170803689 
+
+./sample5.txt  entropia rzedu  1  slowa :  -0.0
+./sample5.txt  entropia rzedu  1  litery :  3.5230970549875478 
+
+./sample5.txt  entropia rzedu  2  slowa :  -0.0
+./sample5.txt  entropia rzedu  2  litery :  3.2506198578797703 
+
+./sample5.txt  entropia rzedu  3  slowa :  -0.0
+./sample5.txt  entropia rzedu  3  litery :  2.834270697518929 
+
+
+Process finished with exit code 0
