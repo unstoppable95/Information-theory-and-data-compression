@@ -1,5 +1,6 @@
 from numpy import *
 from bitarray import *
+import operator
 
 #encode text using dict
 def encode(text,dict):
@@ -50,6 +51,26 @@ def load():
 
     return encodeText,dict
 
+#create code for characters using char frequency in text
+def create(text):
+    freq={}
+    dict={}
+    for i in text:
+        if (i not in freq):
+            freq[i]=0
+        freq[i]+=1
+
+    for j in freq:
+        freq[j]=freq[j]/len(text)
+
+    for i in range(1,len(freq)+1):
+        key=max(freq.items(), key=operator.itemgetter(1))[0]
+        value= bin(i)[2:]
+        dict[key]=bitarray(value.rjust(6, '0'))
+        del freq[key]
+
+    return dict
+
 def main():
     fileName = './norm_wiki_sample.txt'
     text = open(fileName).read()
@@ -72,8 +93,12 @@ def main():
                 value = bitarray(value.rjust(6, '0'))
                 dict[data[i]] = value
 
+    #create dict using char frequency -> the bigger frequency the smaller bin value
+    #dict = create(text)
+
     #encode text
     encodeText=encode(text,dict)
+
     #save encode text and dict to files
     save(encodeText, dict)
 
@@ -85,7 +110,7 @@ def main():
     print("Odkodowany text: " , decodeTextFile)
 
     if(decodeTextFile==text):
-        print('Udalo sie odkowany text z pliku .bin == wczytanemu z .txt')
+        print('Udalo sie odkodowany text z pliku .bin == wczytanemu z .txt')
 
 if __name__ == '__main__':
     main()
